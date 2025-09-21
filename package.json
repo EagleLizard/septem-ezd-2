@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/EagleLizard/septem-ezd-2/issues"
   },
-  "homepage": "https://github.com/EagleLizard/septem-ezd-2#readme"
+  "homepage": "https://github.com/EagleLizard/septem-ezd-2#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@stylistic/eslint-plugin": "^5.4.0",
+    "eslint": "^9.36.0",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.44.0"
+  },
+  "dependencies": {
+    "source-map-support": "^0.5.21"
+  }
 }
